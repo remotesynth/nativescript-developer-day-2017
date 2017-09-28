@@ -12,7 +12,7 @@ Todd Anglin<br>
 Rob Lauer<br>
 **GETTING STARTED WITH {N} PART 1—LEARNING THE BASICS**
 
-- [slides](/presentations/NativeScript 101 (DevDay NYC).pptx) (Powerpoint)
+- [slides](/presentations/NativeScript-101.pptx) (Powerpoint)
 - session recording (coming soon)
 
 Jen Looper<br>
@@ -25,7 +25,7 @@ Jen Looper<br>
 Rob Lauer, Sebastian Witalec<br>
 **GETTING STARTED WITH {N} PART 2—BUILDING WITH THE {N} CLI AND VISUAL TOOLING**
 
-- [slides](/presentations/NativeScript Tooling (DevDay NYC).pptx) (Powerpoint)
+- [slides](/presentations/NativeScript-Tooling.pptx) (Powerpoint)
 - session recording (coming soon)
 
 TJ VanToll<br>
@@ -83,7 +83,7 @@ Rob Laverty<br>
 Tracy Lee<br>
 **THE POWER OF RXJS (IN NATIVESCRIPT AND ANGULAR)**
 
-- [slides](https://www.slideshare.net/ladyleet/the-power-of-rxjs-in-nativescript-angular) (Slideshare) [PDF](/presentations/RxJS in NativeScript + Angular.pdf)
+- [slides](https://www.slideshare.net/ladyleet/the-power-of-rxjs-in-nativescript-angular) (Slideshare) [PDF](/presentations/RxJS-in-NativeScript.pdf)
 - session recording (coming soon)
 
 Nathanael Anderson<br>
