@@ -113,7 +113,7 @@ Alex Ziskind<br>
 Vasil Chimev, Svetoslav Tsenov<br>
 **INTRODUCTION TO MOBILE UI TEST AUTOMATION**
 
-- [slides](/presentations/Introduction to Mobile Test Automation.pptx) (Powerpoint)
+- [slides](/presentations/Introduction-to-Mobile-Test-Automation.pptx) (Powerpoint)
 - session recording (coming soon)
 
 NativeScript Team
