@@ -1,4 +1,4 @@
-#NativeScript Developer Day 2017 (NYC) - Slides, Presentations & Resources
+# NativeScript Developer Day 2017 (NYC) - Slides, Presentations & Resources
 
 ## DAY ONE
 ### SEPTEMBER 18, 2017
