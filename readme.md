@@ -89,7 +89,7 @@ Tracy Lee<br>
 Nathanael Anderson<br>
 **PERFORMANCE FROM THE TRENCHES**
 
-- slides (coming soon)
+- [slides](/presentations/Performance.pptx) (Powerpoint)
 - session recording (coming soon)
 
 Nic Raboy<br>
