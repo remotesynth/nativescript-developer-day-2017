@@ -7,7 +7,7 @@ Todd Anglin<br>
 **OPENING KEYNOTE**
 
 - [slides](/presentations/DevDay-2017-Keynote-Slides.zip)  (zip file)
-- session recording (coming soon)
+- [session recording](https://youtu.be/qOSvp0IwHBk)
 
 Rob Lauer<br>
 **GETTING STARTED WITH {N} PART 1—LEARNING THE BASICS**
