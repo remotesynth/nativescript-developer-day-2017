@@ -20,13 +20,13 @@ Jen Looper<br>
 
 - [slides](http://slides.com/telerikdevrel/deck-34) (Slides.com) [Powerpoint](/presentations/jen-looper.pptx)
 - [code](https://github.com/jlooper/quicknoms-app)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=BM98sUHqaas&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=9)
 
 Rob Lauer, Sebastian Witalec<br>
 **GETTING STARTED WITH {N} PART 2—BUILDING WITH THE {N} CLI AND VISUAL TOOLING**
 
 - [slides](/presentations/NativeScript-Tooling.pptx) (Powerpoint)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=c8fx1WA64NI&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=6)
 
 TJ VanToll<br>
 **NATIVESCRIPT UI—BEYOND THE BASICS**
@@ -50,7 +50,7 @@ Sebastian Witalec<br>
 **SHARING CODE BETWEEN WEB AND NATIVE APPS**
 
 - [slides](https://drive.google.com/file/d/0B4BcydrYoAJFZ0pxeDJJZG92Mm8/view) (Google Slides)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=HMPkXk_vXDw&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=5)
 
 Daniel Zen<br>
 **MASTER TYPESCRIPT & ES6**
@@ -71,14 +71,14 @@ Brad Martin<br>
 **MASTERING NATIVESCRIPT LAYOUTS**
 
 - [slides](https://docs.google.com/presentation/d/19GoyWC5I1uVNsEijFpjc9_1rcxteOgJ8ESr_-pyMEYs/edit?usp=sharing) (Google Slides)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=U191esT9_zY&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=3)
 
 Rob Laverty<br>
 **FALL IN LOVE WITH NATIVE APIS**
 
 - [slides](https://docs.google.com/presentation/d/1zbrcynWXwH5FvpKYXXNxziw75ktahqMalNktOgcGQaI/edit?usp=sharing) (Google Slides)
 - [code](https://github.com/roblav96/nativescript-devday2017)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=zCdbrkmvdVI&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=4)
 
 Tracy Lee<br>
 **THE POWER OF RXJS (IN NATIVESCRIPT AND ANGULAR)**
@@ -90,13 +90,13 @@ Nathanael Anderson<br>
 **PERFORMANCE FROM THE TRENCHES**
 
 - [slides](/presentations/Performance.pptx) (Powerpoint)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=kszTgxabyD8&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=7)
 
 Nic Raboy<br>
 **NATIVE TO HYBRID AND BACK AGAIN**
 
 - [slides](https://docs.google.com/presentation/d/1YFFL9oc_nK2A_7OmRU0td8wOEC1hBCcG7sErmeNbk9o/edit?usp=sharing) (Google Slides)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=dL9Kx1u8fQ8&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=8)
 
 Peter Kanev<br>
 **CHROME DEVTOOLS IN NATIVESCRIPT**
@@ -108,7 +108,7 @@ Alex Ziskind<br>
 **THE ART OF MOBILE APP INTERACTION**
 
 - [slides](/Users/brinaldi/Documents/projects/nativescript-developer-day-2017/presentations/20170919_NDD_alex_ziskind.pptx.zip) (zip file)
-- session recording (coming soon)
+- [session recording](https://www.youtube.com/watch?v=x4ZXIpA3cQ0&list=PLiKWVuUOQtPYyhbjndwdXu0ajhOPOMSoc&index=10)
 
 Vasil Chimev, Svetoslav Tsenov<br>
 **INTRODUCTION TO MOBILE UI TEST AUTOMATION**
